@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1764260354 source:d:\users\martin\onedrive\documents\textbookapp\main.cpp
+	<iostream>
+	<limits>
+	"Catalog.h"
+
+1764260435 d:\users\martin\onedrive\documents\textbookapp\catalog.h
+	"Textbook.h"
+	"Distributor.h"
+	<vector>
+	<string>
+
+1764250827 d:\users\martin\onedrive\documents\textbookapp\textbook.h
+	<string>
+	<iostream>
+
+1764251095 d:\users\martin\onedrive\documents\textbookapp\distributor.h
+	<string>
+	<vector>
+	<iostream>
+
+1764252851 source:d:\users\martin\onedrive\documents\textbookapp\textbook.cpp
+	"Textbook.h"
+	<sstream>
+	<vector>
+
+1764260595 source:d:\users\martin\onedrive\documents\textbookapp\catalog.cpp
+	"Catalog.h"
+	<fstream>
+	<sstream>
+
+1764252851 source:d:\users\martin\onedrive\documents\textbookapp\distributor.cpp
+	"Distributor.h"
+	<sstream>
+
